@@ -2,13 +2,10 @@
 
 ![logo](icon.svg)
 
-# docsify <small>4.12.1</small>
+# Data Science for Beginners <small>A Curriculum</small>
 
-> A magical documentation site generator.
+> 10 Weeks, 20 Lessons, Data Science for All!
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](https://github.com/microsoft/Data-Science-For-Beginners)
+[GitHub](https://github.com/microsoft/Data-Science-For-Beginners)
+[Get Started](# Getting Started)
