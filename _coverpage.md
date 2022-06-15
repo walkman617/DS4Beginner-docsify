@@ -11,4 +11,4 @@
 - Multiple themes
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#headline)
+[Get Started](https://github.com/microsoft/Data-Science-For-Beginners)
