@@ -1,28 +1,27 @@
 {
-	"name": "ds-for-beginners",
+	"name": "computer-networking-technologies",
 	"version": "1.0.0",
-	"description": "Data Science for Beginners - A Curriculum",
+	"description": "Computer Networking: A Top-Down Approach, 8/E",
 	"main": "index.js",
 	"scripts": {
 		"convert": "node_modules/.bin/docsify-to-pdf"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/microsoft/Data-Science-For-Beginners.git"
+		"url": "git+https://github.com/walkman617/DS4Beginner-docsify.git"
 	},
 	"keywords": [
-		"machine",
-		"learning",
-		"ml",
-		"ai",
+		"computer",
+		"networking",
+		"top-down",
 		"curriculum"
 	],
-	"author": "Jen Looper and team",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/microsoft/Data-Science-For-Beginners/issues"
+	"author": "Kurose / Ross",
+	"ISBN-10": "0136681557 ",
+	"Companion Website": {
+		"url": "https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw"
 	},
-	"homepage": "https://github.com/microsoft/Data-Science-For-Beginners#readme",
+	"Author Website": "https://gaia.cs.umass.edu/kurose_ross/index.php",
 	"devDependencies": {
 		"docsify-to-pdf": "0.0.5"
 	}
