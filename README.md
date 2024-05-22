@@ -18,6 +18,6 @@
 
 # 课程作业
 
-> **Teachers**: we have [included some suggestions](for-teachers.md) on how to use this curriculum.  We'd love your feedback [in our discussion forum](https://github.com/microsoft/Data-Science-For-Beginners/discussions)!
+> **[实践报告]**: 开发一个能够缓存网页的小型 Web 代理服务器（[任务要求](https://docs.qq.com/pdf/DYlNSQVpvRE9UaW5p)），撰写实践报告（[格式要求](https://docs.qq.com/doc/DYlJwQUJuSUpvQUZL)）。在线提交：[实践报告：Web 代理服务器](https://docs.qq.com/form/page/DYm9XblRTc0V4bkRT)
 
-> **[Students](https://aka.ms/student-page)**: to use this curriculum on your own, fork the entire repo and complete the exercises on your own, starting with a pre-lecture quiz.  Then read the lecture and complete the rest of the activities. Try to create the projects by comprehending the lessons rather than copying the solution code; however, that code is available in the /solutions folders in each project-oriented lesson. Another idea would be to form a study group with friends and go through the content together. For further study, we recommend [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-40229-cxa).
+> **[交互练习（选做）](https://gaia.cs.umass.edu/kurose_ross/interactive/)**: 自行练习，无需提交。
