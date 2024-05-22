@@ -18,6 +18,6 @@
 
 # 课程作业
 
-> **[实践报告]**: 开发一个能够缓存网页的小型 Web 代理服务器（[任务要求](https://docs.qq.com/pdf/DYlNSQVpvRE9UaW5p)），撰写实践报告（[格式要求](https://docs.qq.com/doc/DYlJwQUJuSUpvQUZL)）。在线提交：[实践报告：Web 代理服务器](https://docs.qq.com/form/page/DYm9XblRTc0V4bkRT)
+> **实践报告**: 开发一个能够缓存网页的小型 Web 代理服务器（[任务要求](https://docs.qq.com/pdf/DYlNSQVpvRE9UaW5p)），撰写实践报告（[格式要求](https://docs.qq.com/doc/DYlJwQUJuSUpvQUZL)）。在线提交（2024年6月23日前）“[实践报告：Web 代理服务器](https://docs.qq.com/form/page/DYm9XblRTc0V4bkRT)”。
 
-> **[交互练习（选做）](https://gaia.cs.umass.edu/kurose_ross/interactive/)**: 自行练习，无需提交。
+> **交互练习**: [交互式章末练习](https://gaia.cs.umass.edu/kurose_ross/interactive/)，自行练习，无需提交。
