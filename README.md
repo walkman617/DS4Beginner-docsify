@@ -1,23 +1,40 @@
 # 课程介绍
 
-本课程采用自顶向下的方法讲授计算机网络的原理及其协议，即从应用层协议开始沿协议栈向下逐层讲解，让学生从实现、应用的角度明白各层的意义，进而理解计算机网络的工作原理和机制。
+在本课程中，您将学习使用 Jetpack Compose 构建 Android 应用的基础知识。
 
-本课程强调应用层范例和应用编程接口，使学生尽快进入每天使用的应用程序环境之中进行学习和“创造”。
+Jetpack Compose 是用于构建 Android 应用的全新界面工具包。
+
+在这个过程中，您将开发一些应用，为成为一名 Android 开发者奠定基础。
 
 
-|![ 计算机网络：自顶向下方法（原书第8版） [教材链接](https://course.cmpreading.com/web/teachRes/detail/5410/216) ](./images/book.webp)|
+|![ Android 之 Compose 开发基础 ](./images/compose.png)|
 |:---:|
-| 计算机网络：自顶向下方法（原书第8版） [教材链接](https://course.cmpreading.com/web/teachRes/detail/5410/216) |
+| Android 之 Compose 开发基础 [课程链接](https://developer.android.google.cn/courses/android-basics-compose/course?hl=zh-cn) |
 
-# 教学资源
+# 课程资源
 
-使用下面的链接访问《计算机网络：自顶向下方法（原书第8版）》教材的资源。
-- [课件下载](https://docs.qq.com/s/4iAHi-C7c_hRYcj1DmPELG) 下载课程的ppt课件。
-- [配套网站](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw) 访问教材的配套网站。
-- [作者网站](https://gaia.cs.umass.edu/kurose_ross/index.php) 访问教材作者的网站。
+使用下面的链接访问课程资源。
+- [课件下载](https://docs.qq.com/s/9ciGd-kKPqji-7oXgP7L8W) 下载课程的ppt课件。
+- [Kotlin Playground](https://developer.android.google.cn/training/kotlinplayground) 基于网页的Kotlin语言编译与运行环境。
+- [Jetpack Compose](https://developer.android.com/develop/ui/compose) 用于构建原生 Android 界面的新工具包。
 
 # 课程作业
 
-> **实践报告**: 开发一个能够缓存网页的小型 Web 代理服务器（[任务要求](https://docs.qq.com/pdf/DYlNSQVpvRE9UaW5p)），撰写实践报告（[格式要求](https://docs.qq.com/doc/DYlJwQUJuSUpvQUZL)）。在线提交（2024年6月23日前）“[实践报告：Web 代理服务器](https://docs.qq.com/form/page/DYm9XblRTc0V4bkRT)”。
+## Lab 1 (2025年3月3日~3月9日)
+> Unit1: Pathway1
+> - 在线课程: [Introduction to programming in Kotlin](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-1)
+> - 作业提交: [Screenshots of Codelabs](https://docs.qq.com/form/page/DYmVaZ2RJWGxNQUtu)
+> 
+> Unit1: Pathway2
+> - 在线课程: [Setup Android Studio](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-2)
+> - 作业提交: [Screenshots of Codelabs](https://docs.qq.com/form/page/DYmJtT21xZm9VS011)
+> 
+> Unit1: Pathway3
+> - 在线课程: [Build a basic layout](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-3)
+> - 作业提交: [Screenshots of Codelabs](https://docs.qq.com/form/page/DYmtDZWR0c3ZnbndK)
 
-> **交互练习**: [交互式章末练习](https://gaia.cs.umass.edu/kurose_ross/interactive/)，自行练习，无需提交。
+## Lab 2 (2025年3月10日~3月16日)
+> Unit2: Pathway1
+> - 在线课程: [Kotlin fundamentals](https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-1)
+> - 作业提交: [Screenshots of Codelabs](https://docs.qq.com/form/page/DYm9YQm5YdnVmem5E)
+>
